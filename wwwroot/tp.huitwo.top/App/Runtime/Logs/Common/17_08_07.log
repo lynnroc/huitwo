@@ -1,0 +1,18 @@
+[ 2017-08-07T10:11:18+08:00 ] 122.233.134.140 /imoc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000107s ]
+ERR: 无法加载模块:Imoc
+
+[ 2017-08-07T10:11:24+08:00 ] 122.233.134.140 /imoc.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+ERR: 无法加载模块:Imoc
+
+[ 2017-08-07T10:38:57+08:00 ] 122.233.134.140 /wechat
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000075s ]
+ERR: 无法加载模块:Wechat
+
